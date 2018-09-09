@@ -1,0 +1,13 @@
+{
+    "name": "simon/unit-test-calculator-master",
+    "license": "*",
+    "authors": [
+        {
+            "name": "51m0n2063r",
+            "email": "simon.roger31@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
